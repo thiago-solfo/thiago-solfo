@@ -1,9 +1,6 @@
-## Hi there 👋
+![snake](https://github.com/thiago-solfo/thiagos-solfo/blob/output/github-contribution-grid-snake-dark.svg)
 
 <!--
-**thiago-solfo/thiago-solfo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
